@@ -1,0 +1,1 @@
+The data to write. If something other than a Buffer or Uint8Array is provided, the value is coerced to a string.
